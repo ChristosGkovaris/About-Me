@@ -10,10 +10,9 @@ I am a Computer Science and Engineering student with a passion for technology an
 - **Year**: 2021-2026
 
 ### Skills
-- **Programming Languages**: Python, Java, C/C++, JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database Management**: MySQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, Docker, AWS
+- **Programming Languages**: Python, Java, C/C++, VHDL, GNU Octave, Haskell, GNU Prolog
+- **Web Development**: HTML, CSS
+- **Tools & Platforms**: GitHub, Eclipse IDE, Intel Quartus, OrCAD, ROS, Ripes Simulator
 
 ### Projects
 1. **Peg Solitaire**: Description of the project and what technologies were used.
