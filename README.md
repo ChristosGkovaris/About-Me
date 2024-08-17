@@ -36,6 +36,5 @@ I am a Computer Science and Engineering student with a passion for technology an
 ### Contact
 - **Email**: (mailto:christosgkovariscs52@gmail.com)
 - **LinkedIn**: (https://www.linkedin.com/in/christosgkovaris/)
-- **GitHub**: (https://github.com/ChristosGkovaris)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
