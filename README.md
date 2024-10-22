@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I am a Computer Science and Engineering student with a passion for technology and problem-solving. Here's a bit more about me:
+I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and systems design. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.
 
 ### Education
 - University of Ioannina, Epirus, Greece
@@ -10,24 +10,9 @@ I am a Computer Science and Engineering student with a passion for technology an
 - 2021-2026
 
 ### Skills
-- **Programming Languages**: Python, Java, C/C++, VHDL, GNU Octave, Haskell, GNU Prolog
-- **Tools & Platforms**: GitHub, Eclipse IDE, Intel Quartus, OrCAD, ROS, Ripes Simulator
-- **Web Development**: HTML, CSS
-
-### Projects in Python
-1. **Peg Solitaire**: Description of the project and what technologies were used.
-2. **Stones**: Description of the project and what technologies were used.
-3. **Guess the Word**: Description of the project and what technologies were used.
-
-### Projects in Java
-1. **Gantt Manager**: Description of the project and what technologies were used.
-2. **Prisoner's 21**: Description of the project and what technologies were used.
-3. **Racing Game**: Description of the project and what technologies were used.
-4. **Crazy Eights**: Description of the project and what technologies were used.
-5. **Mine Sweeper**: Description of the project and what technologies were used.
-
-### Web Development Projects (HTML and CSS)
-1. **Personal Website**: Description of the project and what technologies were used.
+- **Programming Languages**: Python, Java, C/C++, VHDL, GNU Octave, GNU Prolog, Haskell, SQL
+- **Tools & Platforms**: GitHub, Eclipse IDE, Intel Quartus, OrCAD, ROS, Ripes Simulator, VS Code, VS Code 2022, SQLite, OpenGL, Unity
+- **Web Development**: HTML, CSS, JavaScript, Ruby on Rails
 
 ### Interests
 - **Technology**: Cybersecurity, Artificial Limbs, Artificial Intelligence
@@ -36,5 +21,6 @@ I am a Computer Science and Engineering student with a passion for technology an
 ### Contact
 - **Email**: (mailto:christosgkovariscs52@gmail.com)
 - **LinkedIn**: (https://www.linkedin.com/in/christosgkovaris/)
+- **Facebook**: (https://www.facebook.com/profile.php?id=100093360591956)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
