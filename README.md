@@ -16,7 +16,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 - **Web Development**: HTML, CSS, JavaScript, Ruby on Rails
 
 ### Interests
-- **Technology**: Cybersecurity, Artificial Limbs, Artificial Intelligence
+- **Technology**: Cybersecurity, Databases, Artificial Intelligence
 - **Hobbies**: Coding, Cooking, Gaming, Traveling
 
 ### Contact
