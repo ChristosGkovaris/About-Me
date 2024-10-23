@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and systems design. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.
+I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and secyrity. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.
 
 ### Education
 - Computer Science and Engineering 5 year intergraded master Diploma
