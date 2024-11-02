@@ -13,7 +13,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 ### Skills
 - **Programming Languages**: Python, Java, C/C++, VHDL, GNU Octave, GNU Prolog, Haskell, SQL
 - **Tools & Platforms**: GitHub, Eclipse IDE, Intel Quartus, OrCAD, ROS, Ripes Simulator, VS Code, VS Code 2022, SQLite, OpenGL, Unity
-- **Web Development**: HTML, CSS, JavaScript, Ruby on Rails
+- **Web Development**: HTML, CSS, JavaScript, Ruby, Ruby on Rails
 
 ### Interests
 - **Technology**: Cybersecurity, Databases, Artificial Intelligence
