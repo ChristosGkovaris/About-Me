@@ -25,3 +25,9 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 - **Facebook**: (https://www.facebook.com/profile.php?id=100093360591956)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+## 🔧 My Top 3 Languages
+
+- **Python**: 45%
+- **JavaScript**: 30%
+- **C++**: 25%
