@@ -26,8 +26,6 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
-## 🔧 My Top 3 Languages
-
-- **Python**: 45%
-- **JavaScript**: 30%
-- **C++**: 25%
+![Python](https://img.shields.io/badge/Python-45%-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%-yellow)
+![C++](https://img.shields.io/badge/C%2B%2B-25%-green)
