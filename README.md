@@ -25,3 +25,15 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 - Facebook: (https://www.facebook.com/profile.php?id=100093360591956)
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+
+# Most Used Languages
+
+Java  
+![Java](https://progress-bar.dev/78/?title=Java) 78.28%
+
+Python  
+![Python](https://progress-bar.dev/17/?title=Python) 17.38%
+
+Shell  
+![Shell](https://progress-bar.dev/4/?title=Shell) 4.34%
