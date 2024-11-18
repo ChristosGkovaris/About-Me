@@ -19,5 +19,5 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 - **Twitter**: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
 - **LinkedIn**: www.linkedin.com/in/christosgkovaris
-- **Stack Overflow**: https://stackoverflow.com/users/22057068/christos-gkovaris
 - **Facebook**: https://www.facebook.com/profile.php?id=100093360591956
+- **Stack Overflow**: https://stackoverflow.com/users/22057068/christos-gkovaris
