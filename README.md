@@ -26,5 +26,5 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 - Email: christosgkovariscs52@gmail.com
 - LinkedIn: www.linkedin.com/in/christosgkovaris
+- X: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
 - Facebook: https://www.facebook.com/profile.php?id=100093360591956
-- X: https://x.com/settings/profile
