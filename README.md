@@ -22,9 +22,9 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
 
-# Contact me
+# Contact me - Email: christosgkovariscs52@gmail.com
 
-- Email: christosgkovariscs52@gmail.com
-- LinkedIn: www.linkedin.com/in/christosgkovaris
-- Twitter: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
-- Facebook: https://www.facebook.com/profile.php?id=100093360591956
+- **Twitter**: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
+- **LinkedIn**: www.linkedin.com/in/christosgkovaris
+- **Stack Overflow**: 
+- **Facebook**: https://www.facebook.com/profile.php?id=100093360591956
