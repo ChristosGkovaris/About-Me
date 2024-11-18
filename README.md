@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christos-Grigorios Gkovaris</h1>
+<h1 align="left">Hi 👋, I'm Christos-Grigorios Gkovaris</h1>
 <h3 align="left">I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and security. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.</h3>
 
 - 📫 How to reach me **christosgkovariscs52@gmail.com**
