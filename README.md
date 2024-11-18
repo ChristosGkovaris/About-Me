@@ -4,27 +4,27 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 
 # Skills
-- Programming Languages: C/C++, Java, JavaScript, Ruby, Python, Go, Haskell, GNU Prolog
+- **Programming Languages**: C/C++, Java, JavaScript, Ruby, Python, Go, Haskell, GNU Prolog
 
-- Frontend Development: HTML, CSS
+- **Frontend Development**: HTML, CSS
 
-- AI/ML: pandas
+- **AI/ML**: pandas
 
-- Databases: MySQL, SQLite
+- **Databases**: MySQL, SQLite
 
-- Framework: Rails
+- **Framework**: Rails
 
-- Software: MATLAB
+- **Software**: MATLAB
 
-- Other: Linux, Windows, ZorinOS, VMWare, Git/GitHub
+- **Other**: Linux, Windows, ZorinOS, VMWare, Git/GitHub
 
-- Tools: Visual Studio Code, Visual Studio 2022, OpenGL, Intel Quartus, Eclipse IDE, 
+- **Tools**: Visual Studio Code, Visual Studio 2022, OpenGL, Intel Quartus, Eclipse IDE, 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
 
 # Contact me
 
 - Email: christosgkovariscs52@gmail.com
 - LinkedIn: www.linkedin.com/in/christosgkovaris
 - Facebook: https://www.facebook.com/profile.php?id=100093360591956
-- X:
+- X: https://x.com/settings/profile
