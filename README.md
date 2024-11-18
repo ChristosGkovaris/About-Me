@@ -17,7 +17,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
 
 
-# Contact me - Email: christosgkovariscs52@gmail.com
+# Contact me directly at christosgkovariscs52@gmail.com
 
 - **Twitter**: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
 - **LinkedIn**: www.linkedin.com/in/christosgkovaris
