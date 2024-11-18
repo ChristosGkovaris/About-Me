@@ -19,7 +19,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 # Contact me directly at christosgkovariscs52@gmail.com
 
-- **Twitter**: [https://x.com/settings/profile](https://x.com/ChristosGkCS)
+- **Twitter**: https://x.com/ChristosGkCS
 - **LinkedIn**: www.linkedin.com/in/christosgkovaris
 - **Facebook**: https://www.facebook.com/profile.php?id=100093360591956
 - **Stack Overflow**: https://stackoverflow.com/users/22057068/christos-gkovaris
