@@ -1,27 +1,21 @@
-## Hi there! 👋
+<h1 align="center">Hi 👋, I'm Christos-Grigorios Gkovaris</h1>
+<h3 align="center">I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and security. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.</h3>
 
-I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and security. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.
+<p align="left"> <a href="https://twitter.com/christosgkcs" target="blank"><img src="https://img.shields.io/twitter/follow/christosgkcs?logo=twitter&style=for-the-badge" alt="christosgkcs" /></a> </p>
 
-### Education
-- Computer Science and Engineering 5 year intergraded master Diploma
-- University of Ioannina, Epirus, Greece
-- Start Year: 2021
-- Expected Graduation: 2026
+- 📫 How to reach me **christosgkovariscs52@gmail.com**
 
-### Skills
-- Programming Languages: Python, Java, Go, Ruby, C/C++, GNU Octave/MATLAB, SQL, RISC-V 
-  Assembly, Haskell, GNU Prolog, VHDL, Unity
-- Tools & Platforms: SQL, SQLite, OpenGL, Visual Studio Code, Visual Studio 2022, 
-  Git/GitHub, ROS, Ripes Simulator, OrCAD, Intel Quartus, Eclipse IDE, Linux, Windows
-- Web Development: HTML, CSS, JavaScript, PHP
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/christosgkcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christosgkcs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christos-grigorios gkovaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christos-grigorios gkovaris" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22057068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22057068" height="30" width="40" /></a>
+<a href="https://fb.com/christos gkovaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="christos gkovaris" height="30" width="40" /></a>
+<a href="https://instagram.com/x.gkovaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.gkovaris" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/christos gkovaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="christos gkovaris" height="30" width="40" /></a>
+</p>
 
-### Interests
-- Technology: Cybersecurity, Databases, Artificial Intelligence
-- Hobbies: Coding, Cooking, Gaming, Traveling
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-### Contact
-- Email: (mailto:christosgkovariscs52@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/christosgkovaris/)
-- Facebook: (https://www.facebook.com/profile.php?id=100093360591956)
-
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
