@@ -14,7 +14,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 - **Other**: Linux, Windows, ZorinOS, VMWare, Git/GitHub
 - **Tools**: Visual Studio Code, Visual Studio 2022, OpenGL, Intel Quartus, Eclipse IDE
 
-  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
 
 # Contact me directly at christosgkovariscs52@gmail.com
 
