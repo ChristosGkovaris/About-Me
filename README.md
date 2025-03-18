@@ -5,7 +5,7 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 # Skills
 - **Programming Languages**: C/C++, Java, JavaScript, Ruby, Python, Go, Haskell, GNU Prolog
-- **Frontend Development**: HTML/HTML5, CSS/CSS3
+- **Frontend Development**: HTML5, CSS3
 - **Hardware Development**: VHDL
 - **AI/ML**: pandas
 - **Databases**: MySQL, SQLite, MariaDB
