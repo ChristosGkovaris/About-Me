@@ -5,11 +5,11 @@ I am a dedicated Computer Science and Engineering student with a strong passion 
 
 # Skills
 - **Programming Languages**: C/C++, Java, JavaScript, Ruby, Python, Go, Haskell, GNU Prolog
-- **Frontend Development**: HTML, CSS
+- **Frontend Development**: HTML/HTML5, CSS/CSS3
 - **Hardware Development**: VHDL
 - **AI/ML**: pandas
-- **Databases**: MySQL, SQLite
-- **Framework**: Rails
+- **Databases**: MySQL, SQLite, MariaDB
+- **Framework**: Rails, Spring Boot
 - **Software**: MATLAB
 - **Other**: Linux, Windows, ZorinOS, VMWare, Git/GitHub
 - **Tools**: Visual Studio Code, Visual Studio 2022, OpenGL, Intel Quartus, Eclipse IDE
