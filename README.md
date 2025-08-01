@@ -16,9 +16,9 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 ## SKILLS
 
 ### **Programming & Backend**
-- **Python**  
+- **Python** (pandas, NumPy, scikit-learn, PyTorch basics)
 - **Java** (Spring Boot, REST APIs)  
-- **JavaScript**
+- **JavaScript** 
 
 ### **Frontend Development**
 - **HTML5, CSS3, JS**  
@@ -38,9 +38,11 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 
 ## PROJECTS
 
-### **1. Treegram App**
-- A **full-stack web application** designed to organize and visualize hierarchical data.  
-- Built with **Python and web technologies**, featuring an **intuitive user interface** for managing data trees.  
+### **1. Treegram App**  
+- Allows users to **create accounts**, **upload photos**, and **tag other users**.  
+- Implements **follow functionality** to display photos from followed users in **reverse chronological order**.  
+- Supports **photo titles, comments, and comment deletion** with **user permissions**.  
+- **Technologies:** Ruby on Rails, HAML, SQLite3, JavaScript/jQuery, AJAX
 - [🔗 GitHub Repository](#) *(Add when available)*
 
 ### **2. SpringBoot Traineeship Management System**
