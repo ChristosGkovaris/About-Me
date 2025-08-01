@@ -16,12 +16,12 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 ## SKILLS
 
 ### **Programming & Backend**
-- **Python** (Django, Flask basics)  
+- **Python**  
 - **Java** (Spring Boot, REST APIs)  
-- **JavaScript** (Node.js basics)
+- **JavaScript**
 
 ### **Frontend Development**
-- **HTML5, CSS3, Bootstrap, JS**  
+- **HTML5, CSS3, JS**  
 - Building **interactive and responsive** web applications
 
 ### **Databases**
