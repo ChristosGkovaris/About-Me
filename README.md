@@ -1,53 +1,76 @@
 # Hi 👋, I'm **Christos-Grigorios Gkovaris**  
 
-🎓 Computer Science and Engineering Student
-💻 Passionate about software development, algorithms, and problem-solving  
-🌱 Continuously learning and exploring new technologies  
+💻 *Aspiring Software Engineer & Full-Stack Developer*  
+🌐 *Passionate about building scalable web applications and impactful software solutions*  
+🎯 *Focused on Python and Spring Boot development*  
 
 ---
 
-## 🌟 ABOUT ME
-I am a dedicated **Computer Science and Engineering student** with a strong passion for **technology, algorithms, and problem-solving**.  
-I enjoy **designing efficient solutions**, **building software projects**, and **exploring both software and hardware aspects of computing**.  
-My academic and personal projects reflect a **balanced focus on programming, databases, and hardware systems**,  
-and I thrive in **collaborative environments** that challenge me to grow.  
+## ABOUT ME
+I am a **Computer Science and Engineering student** with a strong interest in **software engineering** and **full-stack development**. I enjoy **designing and implementing web applications**, **solving real-world problems with code**, and collaborating on **impactful projects**.  
+
+Currently, I am **implementing my Master Thesis Project**, and my professional goal is to **create meaningful software** that helps a company **achieve big goals** or to **develop my own impactful projects**.  
 
 ---
 
-## 🛠️ SKILLS
+## SKILLS
 
-### **Programming & Scripting**
-- **Languages**: C, C++, Python, Java, JavaScript, Ruby, Go, Haskell, GNU Prolog
-- **Frameworks & Libraries**: Rails, Spring Boot, OpenGL, pandas
-- **Databases**: MySQL, SQLite, MariaDB
-- **Hardware / Low-Level**: VHDL, Intel Quartus, Assembly
-- **Software Tools**: Visual Studio Code, Visual Studio 2022, Eclipse, MATLAB/GNU Octave
+### **Programming & Backend**
+- **Python** (Django, Flask basics)  
+- **Java** (Spring Boot, REST APIs)  
+- **JavaScript** (Node.js basics)
 
-### **Web & Frontend**
-- **Web Development**: HTML5, CSS3
-- **Version Control & Collaboration**: Git, GitHub
+### **Frontend Development**
+- **HTML5, CSS3, Bootstrap, JS**  
+- Building **interactive and responsive** web applications
 
-### **Operating Systems**
-- Ubuntu Linux, Microsoft Windows, Zorin OS  
-- Virtualization: VMWare Player
+### **Databases**
+- MySQL, SQLite, MariaDB
+
+### **Other Tools & Experience**
+- Git & GitHub for version control  
+- VHDL (academic exposure)  
+- OS: Ubuntu Linux, Microsoft Windows, Zorin OS  
+- Virtualization: VMWare Player 17 
+- IDEs: Visual Studio Code, Eclipse IDE, Visual Studio 2022
 
 ---
 
-## 📊 GITHUB STATS
+## PROJECTS
+
+### **1. Treegram App**
+- A **full-stack web application** designed to organize and visualize hierarchical data.  
+- Built with **Python and web technologies**, featuring an **intuitive user interface** for managing data trees.  
+- [🔗 GitHub Repository](#) *(Add when available)*
+
+### **2. SpringBoot Traineeship Management System**
+- A **Spring Boot** web application for **managing traineeships and internships**.  
+- Implements **secure authentication**, **data management**, and **REST API endpoints**.  
+- [🔗 GitHub Repository](#) *(Add when available)*
+
+---
+
+## EXPERIENCE
+
+- **Lab Assistant (6 months)** – Assisted in **Computer Science lab sessions** and student guidance.  
+- **IT Support & Python Teacher (Volunteer)** – Provided **technical support** and **taught Python programming** to beginners.  
+- **Seeking Internship** – Actively looking for opportunities to **contribute to innovative software projects**.
+
+---
+
+## GITHUB STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristosGkovaris&show_icons=true&locale=en&layout=compact" alt="Christos Gkovaris's top languages" />
 </p>
 
 ---
 
-## 📫 CONNECT WITH ME
+## CONNECT WITH ME
 - **Email**: [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)  
 - **LeetCode**: [Christos_Gkovaris](https://leetcode.com/u/Christos_Gkovaris/)  
-- **Twitter (X)**: [@ChristosGkCS](https://x.com/ChristosGkCS)  
-- **Facebook**: [Profile](https://www.facebook.com/profile.php?id=100093360591956)  
 - **Stack Overflow**: [Christos Gkovaris](https://stackoverflow.com/users/22057068/christos-gkovaris)
 
 ---
 
-⭐ *“Striving for elegant solutions to complex problems.”* ⭐
+⭐ *“Building software that matters, one project at a time.”* ⭐
