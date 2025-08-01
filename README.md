@@ -1,25 +1,53 @@
-# Hi 👋, I'm Christos-Grigorios Gkovaris
+# Hi 👋, I'm **Christos-Grigorios Gkovaris**  
 
-I am a dedicated Computer Science and Engineering student with a strong passion for technology and problem-solving. My academic journey has equipped me with a solid foundation in programming, algorithms, and problem-solving. I thrive in environments that challenge my analytical thinking and creativity, allowing me to develop innovative solutions to complex problems.
+🎓 Computer Science and Engineering Student
+💻 Passionate about software development, algorithms, and problem-solving  
+🌱 Continuously learning and exploring new technologies  
 
+---
 
-# Skills
-- **Programming Languages**: C/C++, Java, JavaScript, Ruby, Python, Go, Haskell, GNU Prolog
-- **Frontend Development**: HTML5, CSS3
-- **Hardware Development**: VHDL
-- **AI/ML**: pandas
+## 🌟 ABOUT ME
+I am a dedicated **Computer Science and Engineering student** with a strong passion for **technology, algorithms, and problem-solving**.  
+I enjoy **designing efficient solutions**, **building software projects**, and **exploring both software and hardware aspects of computing**.  
+My academic and personal projects reflect a **balanced focus on programming, databases, and hardware systems**,  
+and I thrive in **collaborative environments** that challenge me to grow.  
+
+---
+
+## 🛠️ SKILLS
+
+### **Programming & Scripting**
+- **Languages**: C, C++, Python, Java, JavaScript, Ruby, Go, Haskell, GNU Prolog
+- **Frameworks & Libraries**: Rails, Spring Boot, OpenGL, pandas
 - **Databases**: MySQL, SQLite, MariaDB
-- **Framework**: Rails, Spring Boot
-- **Software**: MATLAB
-- **Other**: Ubuntu Linux, Microsoft Windows, Zorin OS, VMWare Player, Git/GitHub
-- **Tools**: Visual Studio Code, Visual Studio 2022, OpenGL, Intel Quartus, Eclipse IDE
+- **Hardware / Low-Level**: VHDL, Intel Quartus, Assembly
+- **Software Tools**: Visual Studio Code, Visual Studio 2022, Eclipse, MATLAB/GNU Octave
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christosgkovaris&show_icons=true&locale=en&layout=compact" alt="christosgkovaris" /></p>
+### **Web & Frontend**
+- **Web Development**: HTML5, CSS3
+- **Version Control & Collaboration**: Git, GitHub
 
-# Contact me directly at christosgkovariscs52@gmail.com
+### **Operating Systems**
+- Ubuntu Linux, Microsoft Windows, Zorin OS  
+- Virtualization: VMWare Player
 
-- **Twitter**: https://x.com/ChristosGkCS
-- **LinkedIn**: www.linkedin.com/in/christosgkovaris
-- **Leetcode**: https://leetcode.com/u/Christos_Gkovaris/
-- **Facebook**: https://www.facebook.com/profile.php?id=100093360591956
-- **Stack Overflow**: https://stackoverflow.com/users/22057068/christos-gkovaris
+---
+
+## 📊 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristosGkovaris&show_icons=true&locale=en&layout=compact" alt="Christos Gkovaris's top languages" />
+</p>
+
+---
+
+## 📫 CONNECT WITH ME
+- **Email**: [christosgkovariscs52@gmail.com](mailto:christosgkovariscs52@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/christosgkovaris](https://www.linkedin.com/in/christosgkovaris)  
+- **LeetCode**: [Christos_Gkovaris](https://leetcode.com/u/Christos_Gkovaris/)  
+- **Twitter (X)**: [@ChristosGkCS](https://x.com/ChristosGkCS)  
+- **Facebook**: [Profile](https://www.facebook.com/profile.php?id=100093360591956)  
+- **Stack Overflow**: [Christos Gkovaris](https://stackoverflow.com/users/22057068/christos-gkovaris)
+
+---
+
+⭐ *“Striving for elegant solutions to complex problems.”* ⭐
