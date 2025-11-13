@@ -8,7 +8,7 @@ I build clean, scalable and maintainable software with focus on backend architec
 ---
 
 ## ABOUT ME
-I am a **Computer Science and Engineering student** with a strong interest in **software engineering** and **full-stack development**. I enjoy **designing and implementing web applications**, **solving real-world problems with code**, and collaborating on **impactful projects**.  
+I am a Computer Science and Engineering student with a strong interest in software engineering and full-stack development. I enjoy designing and implementing web applications, solving real-world problems with code, and collaborating on impactful projects.  
 Currently working on my Master Thesis Project in software engineering, focusing on scalable backend systems and modern web technologies. 
 
 ---
@@ -39,23 +39,23 @@ Currently working on my Master Thesis Project in software engineering, focusing 
 ## PROJECTS
 
 ### **1. Treegram App - A lightweight social media platform clone inspired by Instagram**  
-- Allows users to **create accounts**, **upload photos**, and **tag other users**.  
-- Implements **follow functionality** to display photos from followed users in **reverse chronological order**.  
-- Supports **photo titles, comments, and comment deletion** with **user permissions**.  
-- **Technologies:** Ruby on Rails, HAML, SQLite3, JavaScript/jQuery, AJAX
+- Allows users to create accounts, upload photos, and tag other users.  
+- Implements follow functionality to display photos from followed users in reverse chronological order.  
+- Supports photo titles, comments, and comment deletion with user permissions.  
+- Technologies: Ruby on Rails, HAML, SQLite3, JavaScript/jQuery, AJAX
 - [🔗 GitHub Repository](#)
 
 ### **2. SpringBoot Traineeship Management System**
-- A **Spring Boot** web application for **managing traineeships and internships**.  
-- Implements **secure authentication**, **data management**, and **REST API endpoints**.  
+- A Spring Boot web application for managing traineeships and internships.  
+- Implements secure authentication, data management, and REST API endpoints.  
 - [🔗 GitHub Repository](#) *(NOT available yet)*
 
 ---
 
 ## EXPERIENCE
 
-- **Lab Assistant (6 months)** – Assisted in **Computer Science lab sessions** and student guidance.  
-- **IT Support & Python Teacher (Volunteer)** – Provided **technical support** and **taught Python programming** to beginners.  
+- **Lab Assistant (6 months)** – Assisted in Electronics lab sessions and student guidance.  
+- **IT Support & Python Teacher (Volunteer)** – Provided technical support and taught Python programming to beginners.  
 - **Open to Internship Opportunities** — Interested in contributing to impactful software engineering teams.
 ---
 
