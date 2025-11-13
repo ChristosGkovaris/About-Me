@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Christos-Grigorios Gkovaris**  
+# Hi , I'm **Christos-Grigorios Gkovaris**  
 
 💻 *Aspiring Software Engineer & Full-Stack Developer*  
 🌐 *Passionate about building scalable web applications and impactful software solutions*  
