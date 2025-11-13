@@ -75,4 +75,4 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 
 ---
 
-⭐ *“Building software that matters, one project at a time.”* ⭐
+“The only way to do great work is to love what you do.” — **Steve Jobs**
