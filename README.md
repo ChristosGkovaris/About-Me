@@ -1,28 +1,28 @@
-# Hi , I'm **Christos-Grigorios Gkovaris**  
+# Christos-Grigorios Gkovaris
+**Software Engineer & Full-Stack Developer**
 
-💻 *Aspiring Software Engineer & Full-Stack Developer*  
-🌐 *Passionate about building scalable web applications and impactful software solutions*  
-🎯 *Focused on Python and Spring Boot development*  
+I build clean, scalable and maintainable software with focus on backend architecture and user-centric design.
+
+
 
 ---
 
 ## ABOUT ME
 I am a **Computer Science and Engineering student** with a strong interest in **software engineering** and **full-stack development**. I enjoy **designing and implementing web applications**, **solving real-world problems with code**, and collaborating on **impactful projects**.  
-
-Currently, I am **implementing my Master Thesis Project**, and my professional goal is to **create meaningful software** that helps a company **achieve big goals** or to **develop my own impactful projects**.  
+Currently working on my Master Thesis Project in software engineering, focusing on scalable backend systems and modern web technologies. 
 
 ---
 
 ## SKILLS
 
 ### **Programming & Backend**
-- **Python** (pandas, NumPy, scikit-learn, PyTorch basics)
-- **Java** (Spring Boot, REST APIs)  
-- **JavaScript** 
+- Python (pandas, NumPy, scikit-learn, PyTorch basics)
+- Java (Spring Boot, REST APIs)  
+- JavaScript 
 
 ### **Frontend Development**
-- **HTML5, CSS3, JS**  
-- Building **interactive and responsive** web applications
+- HTML5, CSS3, JS  
+- Building interactive and responsive web applications
 
 ### **Databases**
 - MySQL, SQLite, MariaDB
@@ -38,7 +38,7 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 
 ## PROJECTS
 
-### **1. Treegram App**  
+### **1. Treegram App - A lightweight social media platform clone inspired by Instagram**  
 - Allows users to **create accounts**, **upload photos**, and **tag other users**.  
 - Implements **follow functionality** to display photos from followed users in **reverse chronological order**.  
 - Supports **photo titles, comments, and comment deletion** with **user permissions**.  
@@ -56,8 +56,7 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 
 - **Lab Assistant (6 months)** – Assisted in **Computer Science lab sessions** and student guidance.  
 - **IT Support & Python Teacher (Volunteer)** – Provided **technical support** and **taught Python programming** to beginners.  
-- **Seeking Internship** – Actively looking for opportunities to **contribute to innovative software projects**.
-
+- **Open to Internship Opportunities** — Interested in contributing to impactful software engineering teams.
 ---
 
 ## GITHUB STATS
