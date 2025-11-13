@@ -43,12 +43,12 @@ Currently, I am **implementing my Master Thesis Project**, and my professional g
 - Implements **follow functionality** to display photos from followed users in **reverse chronological order**.  
 - Supports **photo titles, comments, and comment deletion** with **user permissions**.  
 - **Technologies:** Ruby on Rails, HAML, SQLite3, JavaScript/jQuery, AJAX
-- [🔗 GitHub Repository](#) *(Add when available)*
+- [🔗 GitHub Repository](#)
 
 ### **2. SpringBoot Traineeship Management System**
 - A **Spring Boot** web application for **managing traineeships and internships**.  
 - Implements **secure authentication**, **data management**, and **REST API endpoints**.  
-- [🔗 GitHub Repository](#) *(Add when available)*
+- [🔗 GitHub Repository](#) *(NOT available yet)*
 
 ---
 
